@@ -42,7 +42,7 @@ body,html{
     flex-grow: 1;
     flex-basis: 0;
     gap:15px;
-    min-width:320px;
+    min-width:300px;
 }
 
 .sonson{
